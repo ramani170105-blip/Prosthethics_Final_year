@@ -145,8 +145,8 @@ Prosthetics_final/
 
 ### 1. Clone & Install Dependencies
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/<YOUR_REPO_NAME>.git
-cd <YOUR_REPO_NAME>
+git clone https://github.com/ramani170105-blip/Prosthethics_Final_year.git
+cd Prosthethics_Final_year
 
 # Create virtual environment (optional but recommended)
 python3 -m venv venv
