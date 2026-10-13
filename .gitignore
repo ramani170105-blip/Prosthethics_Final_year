@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Operating System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Large Dataset Files & Caches (Over GitHub 100MB limit)
+# Note: Keep Python loader scripts inside datasets/
+datasets/sub*/
+datasets/preprocessed_cache/
+*.zip
+*.tar.gz
+*.tar
+eeg_dataset.csv
+S001_R01_Features.csv
+
+# Temporary Renders & Training Logs
+cam_test*.png
+test_render.png
+MUJOCO_LOG.TXT
+bci_training_log_*.txt
+test_sub11_header.bin
