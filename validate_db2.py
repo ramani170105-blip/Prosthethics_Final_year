@@ -66,6 +66,7 @@ def find_source_subjects():
 # S1_E1_A1.mat
 # S1_E2_A1.mat
 # S1_E3_A1.mat
+# S1_E4_A1.mat
 #
 # For validation we only need to know WHICH SOURCE
 # recordings exist. We keep the ORIGINAL filename here.
